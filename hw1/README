@@ -1,0 +1,8 @@
+To run Q1, Q2, Q3, Q4 - refer to hw1.ipynb.
+To run Q5 - refer to maxAcc.ipynb
+
+For question 5, the results took about ~6h in total 
+between the different datasets to test and find the optimal value. 
+It may take time to run.
+
+The results of the runs should already be present in the notebook.
